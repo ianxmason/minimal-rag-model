@@ -1,6 +1,6 @@
 # rag-model
 
-This repo shows a fairly minimal working [Retrieval Augmented Generation (RAG) model](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1).
+This repo shows a fairly minimal working [Retrieval Augmented Generation (RAG) model](https://www.ianxmason.com/posts/RAG/).
 
 This example embeds ~100 documents from the [nltk reuters](https://www.nltk.org/book/ch02.html) corpus and uses them to
 provide additional information to ChatGPT.
